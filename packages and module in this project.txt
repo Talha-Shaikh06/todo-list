@@ -1,0 +1,5 @@
+npm i -g typescript
+npm init -y 	pack.json file
+tsc --init		tsconfig.json
+npm i inquirer	install inquirer
+npm i @types/inquirer -D	inquirer pck download
